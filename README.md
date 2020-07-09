@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You can buy me a coffe: https://www.buymeacoffee.com/ilyaZ
+
+This money will give me **motivation** for developing open source projects. ❤
+
 <!--
 **iliyaZelenko/iliyaZelenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
