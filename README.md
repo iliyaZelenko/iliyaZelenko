@@ -13,6 +13,16 @@ src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-w
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iliyazelenko&show_icons=true" alt="iliyazelenko" /> </p>
 
+<h3 align="center"><a href="https://iliyazelenko.github.io/skills/">My skills on diagram</a></h3>
+
+<p align="center">
+  <a href="https://iliyazelenko.github.io/skills/">
+    <img src="https://camo.githubusercontent.com/2f116070588b1e185231fc7f510d60bae5e4d51c/68747470733a2f2f692e696d6775722e636f6d2f476750534264752e706e67" width="600" alt="iliyazelenko" />
+  </a>
+</p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliyazelenko" alt="iliyazelenko" /> </p>
 
 <!--
