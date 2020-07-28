@@ -1,10 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ilya</h1>
 
 You can buy me a coffe ☕: https://www.buymeacoffee.com/ilyaZ (Be first ⚡)
 
 With this donation you can ask with what to help you. And this money will give me **motivation** for developing open source projects. ❤
 
-<h1 align="center">Hi 👋, I'm Ilya</h1>
+---
 
 <p align="center">
 <img
