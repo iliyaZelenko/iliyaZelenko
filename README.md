@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
-You can buy me a coffe ☕: https://www.buymeacoffee.com/ilyaZ (Be first ⚡)
+You can donate me using my **IBAN: IE66CITI99005170075763** Thanks. I have not found an easier way for my country :(
 
 With this donation you can ask with what to help you. And this money will give me **motivation** for developing open source projects. ❤
 
