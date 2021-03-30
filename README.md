@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
-You can donate me using my **IBAN: IE66CITI99005170075763** Thanks. I have not found an easier way for my country :(
+You can donate me using my **IBAN: IE66CITI99005170075763** or **Bitcoin: 1EC85V7zDbuD9eC2qCstmtXqYV1QSJ9nsc** Thanks. I have not found an easier way for my country :(
 
 With this donation you can ask with what to help you. And this money will give me **motivation** for developing open source projects. ❤
 
