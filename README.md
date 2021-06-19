@@ -1,16 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
+Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
 
+---
+
+<!--
 <p align="center">
   <a href="https://www.paypal.com/donate?hosted_button_id=Z8AGGHKB3ZVWE">
     <img src="https://www.eurozine.com/wp-content/uploads/2018/12/paypal-donate-button-high-quality-png.png" alt="Donate" width="250px" />
   </a>
 </p>
+-->
 
+You can donate me using my **Bitcoin: 1EC85V7zDbuD9eC2qCstmtXqYV1QSJ9nsc** or **IBAN: IE66CITI99005170075763** Thanks. 
 
-Or can donate me using my **IBAN: IE66CITI99005170075763** or **Bitcoin: 1EC85V7zDbuD9eC2qCstmtXqYV1QSJ9nsc** Thanks. 
+This money will give me **motivation** for developing open source projects. ❤
+
+<!--
+You can donate me using my **IBAN: IE66CITI99005170075763** or **Bitcoin: 1EC85V7zDbuD9eC2qCstmtXqYV1QSJ9nsc** Thanks. 
 
 With this donation you can ask with what to help you. And this money will give me **motivation** for developing open source projects. ❤
+
+-->
 
 ---
 
@@ -25,11 +36,11 @@ src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyazelenko" alt="Top lang" />
 </p>
 
-<h3 align="center"><a href="https://iliyazelenko.github.io/skills/">My skills on diagram</a></h3>
+<h3 align="center"><a href="https://iliyazelenko.github.io/skills/">My skills on diagram (2019)</a></h3>
 
 <p align="center">
   <a href="https://iliyazelenko.github.io/skills/">
-    <img src="https://camo.githubusercontent.com/2f116070588b1e185231fc7f510d60bae5e4d51c/68747470733a2f2f692e696d6775722e636f6d2f476750534264752e706e67" width="600" alt="iliyazelenko" />
+    <img src="https://camo.githubusercontent.com/2f116070588b1e185231fc7f510d60bae5e4d51c/68747470733a2f2f692e696d6775722e636f6d2f476750534264752e706e67" width="300" alt="iliyazelenko" />
   </a>
 </p>
 
