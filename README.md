@@ -48,7 +48,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
   </a>
 </p>
 
+---
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=iliyaZelenko&badges=4&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=iliyaZelenko&skills=JavaScript,TypeScript,Dart,PHP,Vue,Laravel,HTML&show-other-skills=true"
+/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliyazelenko" alt="iliyazelenko" /> </p>
 
