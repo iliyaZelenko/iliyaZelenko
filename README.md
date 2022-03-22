@@ -13,6 +13,7 @@ Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
 -->
 
 You can donate me using my 
+- [Paypal](https://www.paypal.com/donate/?hosted_button_id=N8277YBCBWAW6)
 - **Bitcoin: 1EC85V7zDbuD9eC2qCstmtXqYV1QSJ9nsc**
 - **IBAN: IE66CITI99005170075763**
 
