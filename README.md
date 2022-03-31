@@ -52,11 +52,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 />
 </a>
 
-<h3 align="center"><a href="https://iliyazelenko.github.io/skills/">My skills on diagram (2019)</a></h3>
+<h3 align="center"><a href="https://iliyazelenko.github.io/skills/">My skills on diagram</a></h3>
 
 <p align="center">
-  <a href="https://iliyazelenko.github.io/skills/">
-    <img src="https://camo.githubusercontent.com/2f116070588b1e185231fc7f510d60bae5e4d51c/68747470733a2f2f692e696d6775722e636f6d2f476750534264752e706e67" width="300" alt="iliyazelenko" />
+  <a href="https://ilya-skills.netlify.app/">
+    <img src="https://i.imgur.com/O1l0Fe0.png" width="300" alt="iliyazelenko" />
   </a>
 </p>
 
