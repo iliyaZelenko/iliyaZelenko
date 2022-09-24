@@ -14,8 +14,9 @@ Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
 
 You can donate me using my 
 - [Paypal](https://www.paypal.com/myaccount/transfer) (my email: `iliyazelenkog@gmail.com`)
-- **Bitcoin: 1EC85V7zDbuD9eC2qCstmtXqYV1QSJ9nsc**
-- **IBAN: IE66CITI99005170075763**
+- **Bitcoin**: 1CHBhYwxqzXpQY4vivzE8gR7qyx5jcBqdu
+- **Ethereum(ERC20)**: 0xc429a11bc12e5b5771171abb195e3fb4ef0283ab
+- **IBAN**: IE66CITI99005170075763
 
 Thanks. This money will give me **motivation** for developing open source projects. ❤
 
@@ -49,6 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=iliyaZelenko&skills=JavaScript,TypeScript,Dart,PHP,Vue,Laravel,HTML&show-other-skills=true"
+  height="400"
 />
 </a>
 
