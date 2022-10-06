@@ -14,9 +14,9 @@ Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
 
 You can donate me using my 
 - [Paypal](https://www.paypal.com/myaccount/transfer) (my email: `iliyazelenkog@gmail.com`)
+- Binance (my email: `iliyazelenkog@gmail.com`)
 - **Bitcoin**: 1CHBhYwxqzXpQY4vivzE8gR7qyx5jcBqdu
 - **Ethereum(ERC20)**: 0xc429a11bc12e5b5771171abb195e3fb4ef0283ab
-- **IBAN**: IE66CITI99005170075763
 
 Thanks. This money will give me **motivation** for developing open source projects. ❤
 
