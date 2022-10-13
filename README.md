@@ -12,7 +12,7 @@ Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
 </p>
 -->
 
-You support me:
+You can support me:
 - [Paypal](https://www.paypal.com/myaccount/transfer) (my email: `iliyazelenkog@gmail.com`)
 - Binance (my email: `iliyazelenkog@gmail.com`)
 - **Bitcoin**: 1CHBhYwxqzXpQY4vivzE8gR7qyx5jcBqdu
