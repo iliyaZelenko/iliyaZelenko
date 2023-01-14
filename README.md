@@ -59,7 +59,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
 />
 </a>
 
-<h3 align="center"><a href="https://ilya-skills.netlify.app/">My skills on diagram</a></h3>
+<h3 align="center"><a href="https://ilya-skills.netlify.app/">My skills on diagram (old)</a></h3>
 
 <p align="center">
   <a href="https://ilya-skills.netlify.app/">
