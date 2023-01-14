@@ -2,6 +2,8 @@
 
 Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
 
+[ro:](https://ro.charity/) startup participiant (charity social network).
+
 ---
 
 <!--
