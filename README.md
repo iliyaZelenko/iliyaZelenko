@@ -32,7 +32,7 @@ My intresting open source projects:
 You can support me:
 - [Paypal](https://www.paypal.com/myaccount/transfer) (my email: `iliyazelenkog@gmail.com`)
 - Binance (my email: `iliyazelenkog@gmail.com`)
-- **Bitcoin**: 1CHBhYwxqzXpQY4vivzE8gR7qyx5jcBqdu
+- **Bitcoin**(mainnet): 1CHBhYwxqzXpQY4vivzE8gR7qyx5jcBqdu
 - **Ethereum(ERC20)**: 0xc429a11bc12e5b5771171abb195e3fb4ef0283ab
 
 Thanks. This money will give me **motivation** for developing open source projects. ❤
