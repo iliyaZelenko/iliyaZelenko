@@ -19,6 +19,8 @@ My intresting open source projects:
 - [Watch live logs in browser](https://github.com/iliyaZelenko/symfony-server-dump-live)
 - [Simple snake and reaction test](https://github.com/iliyaZelenko/mini-games)
 
+Me on StackOverflow: [EN](https://stackoverflow.com/users/5286034/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be), [RU](https://ru.stackoverflow.com/users/192907/%d0%98%d0%bb%d1%8c%d1%8f-%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%8c%d0%ba%d0%be?tab=profile).
+
 ---
 
 <!--
