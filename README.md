@@ -1,8 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
+[ro:](https://ro.charity/) startup participiant (charity social network).
 Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
 
-[ro:](https://ro.charity/) startup participiant (charity social network).
+My intresting open source projects:
+- [Advanced auth (Laravel + Nuxt)](https://github.com/iliyaZelenko/laravel-nuxt)
+- [Desktop files upload (Electron)](https://github.com/iliyaZelenko/vue-electron-images-uploader)
+- [Flutter Social Network](https://github.com/iliyaZelenko/flutter_social_network)
+- [Snake Game (JS, Phaser)](https://github.com/iliyaZelenko/phaser3-snake-cordova)
+- [Blog (Frontend + Backend using Nuxt + Laravel)](https://github.com/iliyaZelenko/blog-frontend)
+- [Browser extension with 10 000+ users (for CS:GO)](https://github.com/iliyaZelenko/browser-extension-faceit-csgo)
+- [WYSIWYG Editor](https://github.com/iliyaZelenko/tiptap-vuetify)
+- [Select Dropdown element on plain JS](https://github.com/iliyaZelenko/vue-cool-select)
+- [Keyboard speed trainer](https://github.com/iliyaZelenko/vue-cool-select)
+- [My skills on D3 diagram](https://github.com/iliyaZelenko/my_skills)
+- [Blog on Symfony (PHP)](https://github.com/iliyaZelenko/blog-symfony)
+- [Desktop video capture](https://github.com/iliyaZelenko/vue-electron-desktop-capture)
+- [Watch live logs in browser](https://github.com/iliyaZelenko/symfony-server-dump-live)
+- [Simple snake and reaction test](https://github.com/iliyaZelenko/mini-games)
 
 ---
 
