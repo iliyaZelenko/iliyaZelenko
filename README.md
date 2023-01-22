@@ -11,7 +11,7 @@ My intresting open source projects:
 - [Blog (Frontend + Backend using Nuxt + Laravel)](https://github.com/iliyaZelenko/blog-frontend)
 - [Browser extension with 10 000+ users (for CS:GO)](https://github.com/iliyaZelenko/browser-extension-faceit-csgo)
 - [WYSIWYG Editor](https://github.com/iliyaZelenko/tiptap-vuetify)
-- [Select Dropdown element on plain JS](https://github.com/iliyaZelenko/vue-cool-select)
+- [Select Dropdown Vue](https://github.com/iliyaZelenko/vue-cool-select)
 - [Keyboard speed trainer](https://github.com/iliyaZelenko/vue-cool-select)
 - [My skills on D3 diagram](https://github.com/iliyaZelenko/my_skills)
 - [Blog on Symfony (PHP)](https://github.com/iliyaZelenko/blog-symfony)
