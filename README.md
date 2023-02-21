@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 
-[ro:](https://ro.charity/) startup participiant (charity social network).
+<!-- [ro:](https://ro.charity/) startup participiant (charity social network). -->
 Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
 
 My intresting open source projects:
