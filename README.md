@@ -2,6 +2,7 @@
 
 <!-- [ro:](https://ro.charity/) startup participiant (charity social network). -->
 Creator of [babyblog.ru](https://www.babyblog.ru/) using Vue/Nuxt.js.
+[Charity startup](https://ro.charity/) participiant.
 
 My intresting open source projects:
 - [Advanced auth (Laravel + Nuxt)](https://github.com/iliyaZelenko/laravel-nuxt)
