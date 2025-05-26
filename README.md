@@ -93,7 +93,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyazelenko&layout=compact&theme=radical" alt="Top lang" />-->
 </p>
 
-
+<!--
 <a href="https://profile.codersrank.io/user/iliyazelenko">
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=iliyaZelenko&badges=4&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
@@ -104,6 +104,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wor
   height="400"
 />
 </a>
+-->
 
 <h3 align="center"><a href="https://ilya-skills.netlify.app/">My skills on diagram (old)</a></h3>
 
