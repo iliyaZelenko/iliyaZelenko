@@ -10,7 +10,7 @@ My intresting open source projects:
 - [Flutter Social Network](https://github.com/iliyaZelenko/flutter_social_network)
 - [Snake Game (JS, Phaser)](https://github.com/iliyaZelenko/phaser3-snake-cordova)
 - [Blog (Frontend + Backend using Nuxt + Laravel)](https://github.com/iliyaZelenko/blog-frontend)
-- [Browser extension with 10 000+ users (for CS:GO)](https://github.com/iliyaZelenko/browser-extension-faceit-csgo)
+- [Browser extension with 10 000+ unique users/day (for CS:GO)](https://github.com/iliyaZelenko/browser-extension-faceit-csgo)
 - [WYSIWYG Editor](https://github.com/iliyaZelenko/tiptap-vuetify)
 - [Select Dropdown Vue](https://github.com/iliyaZelenko/vue-cool-select)
 - [Keyboard speed trainer](https://github.com/iliyaZelenko/vue-cool-select)
